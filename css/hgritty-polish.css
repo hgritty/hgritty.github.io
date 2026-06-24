@@ -19,7 +19,6 @@ a {
   color: var(--hgritty-accent-2);
 }
 
-#page-header,
 #footer {
   background: var(--hgritty-surface);
 }
